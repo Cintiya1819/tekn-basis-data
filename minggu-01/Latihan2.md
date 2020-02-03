@@ -1,4 +1,5 @@
 ###LATIHAN 2
+-----
 Pada Latihan ini mencoba melakukan pada tutorial yang telah disediakan.
 ![Gambar 1](L21.jpg)
 Contoh syntax diatas untuk membuat database dengan nama testDB.
@@ -46,16 +47,16 @@ Contoh syntax diatas untuk menghapus data pada id 6.
 
 ---
 ![Gambar 16](L216.jpg)
-
----
-![Gambar 17](L217.jpg)
 Contoh syntax diatas untuk memilih untuk menampilkan dengan perintah like.
 ---
-![Gambar 18](L218.jpg)
+![Gambar 17](L217.jpg)
 Contoh syntax diatas untuk memilih menampilkan data berdasarkan urutan yang dikehendaki
 ---
-![Gambar 19](L219.jpg)
+![Gambar 18](L218.jpg)
 Contoh syntax diatas untuk memilih menampilkan nama dan jumlah gaji pada table customers dengan mengurutkan berdasarkan nama.
+---
+![Gambar 19](L219.jpg)
+
 ---
 ![Gambar 20](L220.jpg)
 
