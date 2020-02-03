@@ -31,16 +31,16 @@ Contoh syntax diatas untuk memilih apa saja yang akan ditampilkan.
 Contoh syntax diatas untuk memilih apa saja yang akan ditampilkan dengan perintah AND dan OR.
 ---
 ![Gambar 11](L211.jpg)
-
+Contoh syntax diatas untuk mengubah data pada table customers.
 ---
 ![Gambar 12](L212.jpg)
-
+Contoh syntax diatas untuk mengubah semua data pada address dan salary di table customers.
 ---
 ![Gambar 13](L213.jpg)
 
 ---
 ![Gambar 14](L214.jpg)
-
+Contoh syntax diatas untuk menghapus data pada id 6.
 ---
 ![Gambar 15](L215.jpg)
 
@@ -49,13 +49,13 @@ Contoh syntax diatas untuk memilih apa saja yang akan ditampilkan dengan perinta
 
 ---
 ![Gambar 17](L217.jpg)
-
+Contoh syntax diatas untuk memilih untuk menampilkan dengan perintah like.
 ---
 ![Gambar 18](L218.jpg)
-
+Contoh syntax diatas untuk memilih menampilkan data berdasarkan urutan yang dikehendaki
 ---
 ![Gambar 19](L219.jpg)
-
+Contoh syntax diatas untuk memilih menampilkan nama dan jumlah gaji pada table customers dengan mengurutkan berdasarkan nama.
 ---
 ![Gambar 20](L220.jpg)
 
