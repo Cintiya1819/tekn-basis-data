@@ -1,13 +1,13 @@
 # LATIHAN
 
-## Pada Latihan ini mencoba melakukan pada tutorial yang telah disediakan.
+### Pada Latihan ini mencoba melakukan pada tutorial yang telah disediakan.
 
 
 ![Gambar 1](L1.png)
+---
+Install MongoDB seperti halnya aplikasi biasa, dan secara default akan tersimpan di C:\Program Files\MongoDb. Kita bisa mengubah lokasi installnya dengan memilih custom pada saat instalasi. Asumsi MongoDB terinstall di C:\mongodb, dan binary nya berada di folder C:\mongodb\bin.
+---
 
----
-### Install MongoDB seperti halnya aplikasi biasa, dan secara default akan tersimpan di C:\Program Files\MongoDb. Kita bisa mengubah lokasi installnya dengan memilih custom pada saat instalasi. Asumsi MongoDB terinstall di C:\mongodb, dan binary nya berada di folder C:\mongodb\bin.
----
 ![Gambar 2](L2.png)
 Contoh syntax diatas untuk menampilkan database.
 ---
