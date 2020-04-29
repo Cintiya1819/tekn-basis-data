@@ -1,5 +1,5 @@
 # LATIHAN
-=====================
+
 Pada Latihan ini mencoba melakukan pada tutorial yang telah disediakan.
 
 
