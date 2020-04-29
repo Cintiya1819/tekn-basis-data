@@ -5,24 +5,9 @@
 
 Install MongoDB seperti halnya aplikasi biasa, dan secara default akan tersimpan di C:\Program Files\MongoDb. Kita bisa mengubah lokasi installnya dengan memilih custom pada saat instalasi. Asumsi MongoDB terinstall di C:\mongodb, dan binary nya berada di folder C:\mongodb\bin.
 
-![Gambar 1](L1.png)
+![Gambar 1](L1.png) ![Gambar 2](L2.png) ![Gambar 3](L3.png) ![Gambar 4](L24.jpg) ![Gambar 5](L25.jpg) ![Gambar 6](L26.jpg)
 ---
 
-![Gambar 2](L2.png)
-Contoh syntax diatas untuk menampilkan database.
----
-![Gambar 3](L3.png)
-Contoh syntax diatas untuk menghapus database testDB.
----
-![Gambar 4](L24.jpg)
-Contoh syntax diatas untuk melihat database apakah testDB masih ada atau tidak.
----
-![Gambar 5](L25.jpg)
-Contoh syntax diatas untuk membuat database baru dengan nama latihanDB
----
-![Gambar 6](L26.jpg)
-Contoh syntax diatas untuk membuat table customers, menampilkan deskripsi table dan menghapus table.
----
 ![Gambar 7](L27.jpg)
 Contoh syntax diatas untuk membuat ulang table customers.
 ---
