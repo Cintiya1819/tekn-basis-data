@@ -9,7 +9,7 @@ Install MongoDB seperti halnya aplikasi biasa, dan secara default akan tersimpan
 ---
 
 ![Gambar 7](L27.jpg)
-Contoh syntax diatas untuk membuat ulang table customers.
+
 ---
 ![Gambar 8](L28.jpg)
 Contoh syntax diatas untuk menginputkan data pada table customers
