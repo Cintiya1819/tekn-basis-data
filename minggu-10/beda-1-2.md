@@ -19,6 +19,8 @@ InfluxDB bekerja dengan InfluxQL, bahasa query seperti SQL untuk berinteraksi de
 
 InfluxDB dapat menangani jutaan titik data per detik. Bekerja dengan banyak data dalam jangka waktu lama dapat menyebabkan masalah penyimpanan. InfluxDB secara otomatis memadatkan data untuk meminimalkan ruang penyimpanan Anda. Selain itu, Anda dapat dengan mudah menurunkan sampel data; menyimpan data mentah berpresisi tinggi untuk waktu yang terbatas dan menyimpan data yang diringkas dengan presisi lebih rendah untuk waktu yang lebih lama atau hingga akhir waktu. InfluxDB memiliki dua fitur yang membantu untuk mengotomatiskan proses downsampling dan kedaluwarsa data - Kebijakan Permintaan dan Retensi Berkesinambungan. 
 
+---
+
 * **InfluxDB versi 2.x.x (Beta)**
 
 Saat ini dalam versi beta, InfluxDB 2.0 menggabungkan semua yang Anda butuhkan dalam platform deret waktu ke dalam satu biner.
@@ -32,7 +34,7 @@ InfluxDB 2.0 Beta ini mencakup perangkat tambahan berikut:
 3. Diupgrade ke Flux v0.66.1 - Flux telah diperbarui ke versi terbaru yang mencakup banyak perbaikan bersama dengan fungsi alignTime baru yang akan menyelaraskan banyak seri ke waktu mulai yang umum. 
 
     Kelebihan dari versi 2.x.x :
-    
+
 1. Waktu yang lebih cepat untuk mengagumkan
 
 InfluxDB sekarang mencakup semua yang dibutuhkan dalam satu biner - visualisasi, dasbor, kueri, tugas, peringatan. Tersedia di bawah lisensi MIT dalam sumber terbuka atau di InfluxDB Cloud sebagai platform deret waktu elastis sebagai penawaran layanan, ia menawarkan evolusi terbesar dari platform sejak penciptaan InfluxDB.
