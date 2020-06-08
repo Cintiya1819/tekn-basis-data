@@ -32,6 +32,7 @@ InfluxDB 2.0 Beta ini mencakup perangkat tambahan berikut:
 3. Diupgrade ke Flux v0.66.1 - Flux telah diperbarui ke versi terbaru yang mencakup banyak perbaikan bersama dengan fungsi alignTime baru yang akan menyelaraskan banyak seri ke waktu mulai yang umum. 
 
     Kelebihan dari versi 2.x.x :
+    
 1. Waktu yang lebih cepat untuk mengagumkan
 
 InfluxDB sekarang mencakup semua yang dibutuhkan dalam satu biner - visualisasi, dasbor, kueri, tugas, peringatan. Tersedia di bawah lisensi MIT dalam sumber terbuka atau di InfluxDB Cloud sebagai platform deret waktu elastis sebagai penawaran layanan, ia menawarkan evolusi terbesar dari platform sejak penciptaan InfluxDB.
