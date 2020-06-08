@@ -34,5 +34,6 @@ Mengimport traversal dari gremlin.python.process.anonymous_traversal, selanjutny
 
 Menggunakan metode to_string untuk masuk ke json.dumps
 
-![Gambar 6](Screenshot_6.png)
-![Gambar 7](Screenshot_7.png)
+![Gambar 6](Screenshot_6.jpg)
+
+![Gambar 7](Screenshot_7.jpgg)
