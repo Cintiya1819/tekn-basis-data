@@ -17,7 +17,7 @@ Install Python
 
 Saya sudah menginstall python sebelumnya
 
-![Gambar](Latihan1_2.png)
+![Gambar](Lat1_2.png)
 
 ---
 
